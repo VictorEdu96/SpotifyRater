@@ -1,0 +1,2 @@
+# SpotifyRater
+Rate my songs 
